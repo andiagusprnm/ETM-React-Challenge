@@ -1,0 +1,1 @@
+export const URL = 'https://newsapi.org/v2/everything?apiKey=28cd08f4a8c24115b26917babbf4804e&q=';
